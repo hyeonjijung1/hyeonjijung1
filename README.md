@@ -1,14 +1,14 @@
 # Hi there, I'm Hyeonji 👋
 
 🎓 **ECE @ University of Toronto**  
-⚡ **PCB & FPGA Design · Embedded Systems · ASIC Enthusiast**  
-🏆 **1st Place Smart Grid Design Competition** · Electrical Subteam, **Blue Sky Solar Racing**  
+⚡ **PCB & FPGA Design · Embedded Systems · ASIC Design**  
+🏆 **1st Place Sustainable Energy case competition** · Electrical Team Member, **Blue Sky Solar Racing**  
 
 ---
 
 ## 🚀 About Me  
-I design hardware from **schematic to silicon**, building systems that bridge **analog, digital, and embedded** domains.  
-My work spans **RF telemetry modules, RISC-V CPU cores, FPGA audio processing**, and **real-world PCB validation**.
+I design and build hardware from schematic capture to fully validated systems, bridging **analog, digital, and embedded domains**.  
+My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.
 
 ---
 
@@ -105,8 +105,17 @@ My work spans **RF telemetry modules, RISC-V CPU cores, FPGA audio processing**,
 
 ## 📊 GitHub Stats
 
-![Hyeonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjijung1&show_icons=true&theme=radical)  
+<!-- Skills & Activity Summary -->
+- **5+** custom PCBs designed (RF, analog, digital)
+- **3+** FPGA/ASIC projects (RISC-V CPU, audio DSP, VGA UI)
+- LoRa telemetry system for solar racing team (STM32WL)
+- Analog & mixed-signal circuit design with full lab validation
+
+---
+
+<!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjijung1&layout=compact&theme=radical)
+
 
 ---
 
