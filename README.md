@@ -9,18 +9,6 @@ Aside from engineering, I mentor **550+ Frosh Week leaders** to create an inclus
 
 ## 📂 Featured Projects
 
-### **LoRa Telemetry Module**  
-*(Repo: coming soon)*
-
-> STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
-
-| Block Diagram | 3D PCB Render | Assembled Board | Field Test Setup |
-|---------------|---------------|-----------------|------------------|
-| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
-
-**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
-
----
 
 ### **SDR Controller Hardware**  
 *(Repo: [controller-hardware-sdr](https://github.com/hyeonjijung1/controller-hardware-sdr))*
@@ -50,7 +38,18 @@ ser.close()
 Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
+### **LoRa Telemetry Module**  
+*(Repo: coming soon)*
 
+> STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
+
+| Block Diagram | 3D PCB Render | Assembled Board | Field Test Setup |
+|---------------|---------------|-----------------|------------------|
+| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
+
+**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
+
+---
 ### **RISC-V 5-Stage CPU Core**  
 *(Repo: [riscv-pipeline-cpu](https://github.com/hyeonjijung1/riscv-pipeline-cpu))*
 
