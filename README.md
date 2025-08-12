@@ -133,4 +133,4 @@ My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based au
 
 ---
 
-> *"Turning ideas into silicon, one schematic at a time."*
+"Engineering ideas into tested, working hardware."
