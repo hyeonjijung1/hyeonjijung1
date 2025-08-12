@@ -18,7 +18,7 @@ Aside from engineering, I mentor **550+ Frosh Week leaders** to create an inclus
 |---------------|---------------|-----------------|------------------|
 | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
 
-**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · PCB design & RF testing
+**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
 
 ---
 
@@ -31,7 +31,7 @@ Aside from engineering, I mentor **550+ Frosh Week leaders** to create an inclus
 |---------------|--------------|-----------|--------------------|
 | ![3D Render](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/3D%20PCB%20render.png) | ![Block Diagram](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/block_diagram_sdr.png) | ![Schematic](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/original_schematic.png) | ![Assembled](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/assembled_pcb.png) |
 
-**Tech Stack:** `ATmega324PB` · `Si5351A` · `UART CAT` · `Python / Shell` (test automation) · PCB layout & hardware debugging
+**Tech Stack:** `ATmega324PB` · `Si5351A` · `UART CAT` · `Python / Shell` (test automation) · `PCB layout & hardware debugging`
 
 **Example: Python CAT Command Test**
 ```python
