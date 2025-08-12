@@ -1,7 +1,9 @@
 # Hi there, I'm Hyeonji 👋
 
 I design and build hardware from schematic capture to fully validated systems, bridging **analog, digital, and embedded domains**.  
-My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.
+My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.  
+
+Aside from engineering, I mentor **550+ Frosh Week leaders** to create an inclusive, welcoming experience for first-year students.
 
 ---
 
