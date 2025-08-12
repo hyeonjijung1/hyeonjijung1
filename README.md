@@ -40,13 +40,29 @@ My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based au
 ### **SDR Controller Hardware**  
 *(Repo: [controller-hardware-sdr](https://github.com/hyeonjijung1/controller-hardware-sdr))*
 
-> ATmega324PB microcontroller + Si5351A frequency generation, UART CAT protocol, system integration and validation.
+> ATmega324PB microcontroller + Si5351A frequency generation, UART CAT protocol, Python-based test automation, system integration and validation.
 
 | 3D PCB Render | Block Diagram | Schematic | Assembled Hardware |
 |---------------|--------------|-----------|--------------------|
 | ![3D Render](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/3D%20PCB%20render.png) | ![Block Diagram](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/block_diagram_sdr.png) | ![Schematic](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/original_schematic.png) | ![Assembled](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/assembled_pcb.png) |
 
-**Tech Stack:** `ATmega324PB` · `Si5351A` · `UART CAT` · PCB layout & hardware debugging
+**Tech Stack:** `ATmega324PB` · `Si5351A` · `UART CAT` · `Python / Shell` (test automation) · PCB layout & hardware debugging
+
+**Example: Python CAT Command Test**
+```python
+import serial
+
+# Connect to SDR controller over UART
+ser = serial.Serial("COM3", 9600, timeout=1)
+
+# Send CAT command to enable TX
+ser.write(b"TX;")
+response = ser.readline().decode().strip()
+
+print(f"Response: {response}")
+ser.close()
+```
+Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
 
