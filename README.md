@@ -1,24 +1,11 @@
 # Hi there, I'm Hyeonji 👋
 
-🎓 **ECE @ University of Toronto**  
-⚡ **PCB & FPGA Design · Embedded Systems · ASIC Design**  
-🏆 **1st Place Sustainable Energy case competition** · Electrical Team Member, **Blue Sky Solar Racing**  
 
 ---
 
 ## 🚀 About Me  
 I design and build hardware from schematic capture to fully validated systems, bridging **analog, digital, and embedded domains**.  
 My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.
-
----
-
-## 🏆 Key Highlights  
-
-- **LoRa Telemetry Module Lead** — Designed STM32WL-based bidirectional RF system for solar racing *(repo coming soon)*  
-- **RISC-V 5-Stage CPU Core** — Built & verified pipeline with hazard detection & forwarding ([Repo](https://github.com/hyeonjijung1/riscv-pipeline-cpu))  
-- **FPGA Hearing Loss Simulator** — Real-time audio FX + VGA UI on DE1-SoC ([Repo](https://github.com/hyeonjijung1/fpga-piano-audio-system))  
-- **Linear Voltage Regulator** — Analog PCB design, LTspice simulation, lab validation ([Repo](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb))  
-- **SDR Controller Hardware** — ATmega324PB + Si5351A, UART CAT protocol, hardware bring-up ([Repo](https://github.com/hyeonjijung1/controller-hardware-sdr))
 
 ---
 
