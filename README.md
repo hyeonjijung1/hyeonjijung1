@@ -62,7 +62,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 |---|---|---|---|
 | ![Block Diagram](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/block-diagram-LoRa.png) | ![3D Chase Car PCB](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/3d-LoRa-chase-car.png) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Top Layer Chase Car PCB](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/TOP-plane.png) |
 
-**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `RF PCB Design` · `System Architecture` · `Embedded C`
+**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `4-layer PCB Design` · `System Architecture` · `Embedded C`
 
 ---
 
