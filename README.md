@@ -84,9 +84,9 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 > **Microcontroller-based smart grid PCB** for one of the coldest inhabited cities on Earth (Yakutsk, Russia).  
 > Optimized for renewable integration, local resilience, and efficient power distribution in extreme −40 °C climates.  
 
-| Poster | 3D PCB | Schematic | Block Diagram |
-|---|---|---|---|
-| ![Poster](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/docs/poster.png) | ![3D PCB](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/header-3d.png) | ![Schematic](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/schematic-cold.png) | ![Block Diagram](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/block-diagram-sea.png) |
+| Poster |
+|---|
+| ![Poster](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/docs/poster.png) | 
 
 **Performance:** Industrial-grade reliability · Real-time grid monitoring · Automated load management
 
