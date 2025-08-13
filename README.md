@@ -56,7 +56,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 [![GitHub Repo](https://img.shields.io/badge/Repo-BlueSky--LoRa--Radio-181717?logo=github)](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio)
 
 > **Led a 4-member team** designing a **high-reliability STM32WL LoRa telemetry system** for the Blue Sky Solar Racing car.  
-> Developed **full system architecture**, RF PCB design for chase & solar car modules, and a Raspberry Pi gateway for real-time bidirectional data.
+> Developed **full system architecture**, **4-layer** RF PCB design for chase & solar car modules, and a Raspberry Pi gateway for real-time bidirectional data.
 
 | Block Diagram | 3D Chase Car PCB | 3D Solar Car PCB | Top Layer – Chase Car PCB |
 |---|---|---|---|
