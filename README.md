@@ -39,7 +39,7 @@ Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
 ### **LoRa Telemetry Module**  
-*(Repo: coming soon)*
+*(Repo: [BlueSky-LoRa-Radio](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio.git))*
 
 > STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
 
