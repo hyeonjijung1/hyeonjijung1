@@ -33,7 +33,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 | VGA UI Start Screen | Hearing Aid Screen | Block Diagram | Waveform Verification |
 |---|---|---|---|
-| ![UI Screenshot](images/fpga-niosv-hearing-simulator/UI-background.jpg) | ![DE1-SoC Board](images/fpga-niosv-hearing-simulator/aid-screen.png) | ![Final Block Diagram](images/fpga-niosv-hearing-simulator/final-bd.png) | ![Loss vs Aid Waveforms](images/fpga-niosv-hearing-simulator/loss_audio.png) |
+| ![UI Screenshot](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/UI-background.jpg) | ![DE1-SoC Board](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/aid-screen.png) | ![Final Block Diagram](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/final-bd.png) | ![Loss Waveforms](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/loss_audio.png) |
 
 **Performance:** 8 ms latency · 100 MHz (< 1 ns slack) · 12% LUT / 5% BRAM
 
