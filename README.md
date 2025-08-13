@@ -108,7 +108,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 ---
 
-## 👥 Leadership & Outreach
+## Leadership & Outreach
 
 - **Frosh Leadership Training Coordinator** — Designed & delivered leadership modules for **550+ engineering students**  
 - **VP Competitions, SEA** — Created case competition on sustainable cold storage for Indigenous communities in Canada  
@@ -116,10 +116,10 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyeonji%20Jung-blue?logo=linkedin)](https://www.linkedin.com/in/hyeonjijung)  
 [![Email](https://img.shields.io/badge/Email-hyeonjijung1%40gmail.com-red?logo=gmail)](mailto:hyeonjijung1@gmail.com)
 
 ---
 
-"Engineering ideas into tested, working hardware."
+>"Engineering ideas into tested, working hardware."
