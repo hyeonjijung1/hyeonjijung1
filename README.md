@@ -66,18 +66,21 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 ---
 
-### **FPGA Piano Audio System** 
+### **FPGA Piano Audio System**  
 [![GitHub Repo](https://img.shields.io/badge/Repo-fpga--piano--audio--system-181717?logo=github)](https://github.com/hyeonjijung1/fpga-piano-audio-system)  
 
 **VGA-rendered piano** + **PS/2 keyboard input** + **real-time PWM audio** — all in synthesizable **Verilog**.  
 Automated from **Quartus compile → ModelSim simulation** with Tcl & Bash.  
 
-| Demo | Block Diagram | Demo video | Waveform |
-|---|---|---|
-| ![VGA UI](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/demo_photo.png) [Demo Video](https://drive.google.com/file/d/1-k1kQWv2bcY4y-GO6ZJZvzP8-Z2Uc33Q/view?resourcekey) | ![Block Diagram](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/block_diagram_piano.png) |  ![Waveform Simulation](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/waveform_epwave.png) |
+| Demo | Block Diagram | Demo Video | Waveform |
+|---|---|---|---|
+| ![VGA UI](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/demo_photo.png) | ![Block Diagram](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/block_diagram_piano.png) | [🎥 Watch Demo](https://drive.google.com/file/d/1-k1kQWv2bcY4y-GO6ZJZvzP8-Z2Uc33Q/view?resourcekey) | ![Waveform Simulation](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/waveform_epwave.png) |
+
+*Figure: VGA-rendered piano system with PS/2 keyboard input, real-time audio output, and simulation waveform validation.*
 
 **Performance:** 100 MHz timing closure · < 10 % LUT · < 5 % BRAM  
 **Tech:** Verilog · VGA · PWM · PS/2 · Audio Codec · Tcl/Bash Automation
+
 
 ---
 
