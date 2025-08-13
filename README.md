@@ -53,15 +53,16 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 
 ### **LoRa Telemetry Module**  
-*(Repo: [BlueSky-LoRa-Radio](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio.git))*
+[![GitHub Repo](https://img.shields.io/badge/Repo-BlueSky--LoRa--Radio-181717?logo=github)](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio)
 
-> STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
+> **Led a 4-member team** designing a **high-reliability STM32WL LoRa telemetry system** for the Blue Sky Solar Racing car.  
+> Developed **full system architecture**, RF PCB design for chase & solar car modules, and a Raspberry Pi gateway for real-time bidirectional data.
 
-| Block Diagram | 3D PCB Render | Assembled Board | Field Test Setup |
-|---------------|---------------|-----------------|------------------|
-| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
+| Block Diagram | 3D Chase Car PCB | 3D Solar Car PCB | Top Layer – Chase Car PCB |
+|---|---|---|---|
+| ![Block Diagram](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/block-diagram-LoRa.png) | ![3D Chase Car PCB](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/3d-LoRa-chase-car.png) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Top Layer Chase Car PCB](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio/blob/main/docs/TOP-plane.png) |
 
-**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
+**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `RF PCB Design` · `System Architecture` · `Embedded C`
 
 ---
 
