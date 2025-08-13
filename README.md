@@ -66,28 +66,15 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 ---
 
 ### **Linear Voltage Regulator PCB**  
-*(Repo: [linear-voltage-regulator-pcb](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb))*
+[![GitHub Repo](https://img.shields.io/badge/Repo-linear--voltage--regulator--pcb-181717?logo=github)](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb)  
 
-> Analog regulator from schematic capture to lab validation. Includes LTspice analysis, soldered PCB, oscilloscope verification.
+> **Discrete analog regulator** from schematic capture to full lab validation — LTspice simulation, soldered PCB, and oscilloscope verification.  
 
-| Schematic | 3D PCB Render | Assembled Board | Lab Validation |
-|-----------|---------------|-----------------|----------------|
-| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
+| Schematic | LTspice Simulation | Assembled Board | Oscilloscope Validation |
+|-----------|--------------------|-----------------|-------------------------|
+| ![Schematic](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb/blob/main/images/schematic.png) | ![LTspice](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb/blob/main/images/figure-5.png) | ![Assembled Board](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb/blob/main/images/pcb-final.jpg) | ![Oscilloscope](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb/blob/main/images/osc-1.png) |
 
-**Tech Stack:** `Analog PCB` · `LTspice` · `Oscilloscope` · `Multimeter`
-
----
-### **1st Place – Smart Energy Grid PCB for Yakutsk**  
-[![GitHub Repo](https://img.shields.io/badge/Repo-sea--smart--grid--yakutsk--pcb-181717?logo=github)](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb)  
-
-> **Microcontroller-based smart grid PCB** for one of the coldest inhabited cities on Earth (Yakutsk, Russia).  
-> Optimized for renewable integration, local resilience, and efficient power distribution in extreme −40 °C climates.  
-
-| Poster | 3D PCB | Schematic | Block Diagram |
-|---|---|---|---|
-| ![Poster](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/docs/poster.png) | ![3D PCB](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/header-3d.png) | ![Schematic](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/schematic-cold.png) | ![Block Diagram](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/block-diagram-sea.png) |
-
-**Performance:** Industrial-grade reliability · Real-time grid monitoring · Automated load management
+**Performance:** Stable DC output · Accurate simulation-to-lab correlation · Low-noise regulation
 
 ---
 
@@ -136,3 +123,4 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 ---
 
 >"Engineering ideas into tested, working hardware."
+
