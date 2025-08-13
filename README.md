@@ -63,8 +63,8 @@ Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
 
-### **FPGA Hearing Loss Simulator**  
-*(Repo: [fpga-piano-audio-system](https://github.com/hyeonjijung1/fpga-piano-audio-system))*
+### **[FPGA NiosV Hearing Aid & Loss Simulator](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator.git)**  
+*(Repo: [FPGA NiosV hearing Simulator](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator.git)*
 
 > Real-time audio processing with volume, noise, and speech simulation + VGA UI. Designed for DE1-SoC with Verilog.
 
