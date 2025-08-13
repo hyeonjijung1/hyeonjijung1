@@ -77,6 +77,19 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 **Tech Stack:** `Analog PCB` · `LTspice` · `Oscilloscope` · `Multimeter`
 
 ---
+### **1st Place – Smart Energy Grid PCB for Yakutsk**  
+[![GitHub Repo](https://img.shields.io/badge/Repo-sea--smart--grid--yakutsk--pcb-181717?logo=github)](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb)  
+
+> **Microcontroller-based smart grid PCB** for one of the coldest inhabited cities on Earth (Yakutsk, Russia).  
+> Optimized for renewable integration, local resilience, and efficient power distribution in extreme −40 °C climates.  
+
+| Poster | 3D PCB | Schematic | Block Diagram |
+|---|---|---|---|
+| ![Poster](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/docs/poster.png) | ![3D PCB](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/header-3d.png) | ![Schematic](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/schematic-cold.png) | ![Block Diagram](https://github.com/hyeonjijung1/sea-smart-grid-yakutsk-pcb/blob/main/images/block-diagram-sea.png) |
+
+**Performance:** Industrial-grade reliability · Real-time grid monitoring · Automated load management
+
+---
 
 ## 🔧 Tech Stack
 
