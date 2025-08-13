@@ -11,43 +11,31 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 
 ### **SDR Controller Hardware**  
-*(Repo: [controller-hardware-sdr](https://github.com/hyeonjijung1/controller-hardware-sdr))*
+[![GitHub Repo](https://img.shields.io/badge/Repo-controller--hardware--sdr-181717?logo=github)](https://github.com/hyeonjijung1/controller-hardware-sdr)  
 
-> ATmega324PB microcontroller + Si5351A frequency generation, UART CAT protocol, Python-based test automation, system integration and validation.
+> **ATmega324PB** + **Si5351A** for frequency generation, UART CAT protocol, and Python-based hardware validation.  
+> Designed for SDR TX/RX switching, LO control, and integration with mixer & amplifier subsystems.  
 
 | 3D PCB Render | Block Diagram | Schematic | Assembled Hardware |
-|---------------|--------------|-----------|--------------------|
+|---|---|---|---|
 | ![3D Render](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/3D%20PCB%20render.png) | ![Block Diagram](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/block_diagram_sdr.png) | ![Schematic](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/original_schematic.png) | ![Assembled](https://github.com/hyeonjijung1/controller-hardware-sdr/blob/main/images/assembled_pcb.png) |
 
-**Tech Stack:** `ATmega324PB` · `Si5351A` · `UART CAT` · `Python / Shell` (test automation) · `PCB layout & hardware debugging`
+**Performance:** ±1 kHz LO stability · 90° I/Q accuracy · Instant TX/RX switching
 
-**Example: Python CAT Command Test**
-```python
-import serial
-
-# Connect to SDR controller over UART
-ser = serial.Serial("COM3", 9600, timeout=1)
-
-# Send CAT command to enable TX
-ser.write(b"TX;")
-response = ser.readline().decode().strip()
-
-print(f"Response: {response}")
-ser.close()
-```
-Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
-### **LoRa Telemetry Module**  
-*(Repo: [BlueSky-LoRa-Radio](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio.git))*
 
-> STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
+### **FPGA Nios® V Hearing Loss & Aid Simulator**  
+[![GitHub Repo](https://img.shields.io/badge/Repo-fpga--niosv--hearing--simulator-181717?logo=github)](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator)  
 
-| Block Diagram | 3D PCB Render | Assembled Board | Field Test Setup |
-|---------------|---------------|-----------------|------------------|
-| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
+> **Real-time DSP** simulating hearing loss & aid — live mic / stored audio, VGA UI, PS/2 controls.  
+> Built on **DE1-SoC FPGA** with **Intel Nios® V soft processor**.  
 
-**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
+| VGA UI Start Screen | Hearing Aid Screen | Block Diagram | Waveform Verification |
+|---|---|---|---|
+| ![UI Screenshot](images/fpga-niosv-hearing-simulator/UI-background.jpg) | ![DE1-SoC Board](images/fpga-niosv-hearing-simulator/aid-screen.png) | ![Final Block Diagram](images/fpga-niosv-hearing-simulator/final-bd.png) | ![Loss vs Aid Waveforms](images/fpga-niosv-hearing-simulator/loss_audio.png) |
+
+**Performance:** 8 ms latency · 100 MHz (< 1 ns slack) · 12% LUT / 5% BRAM
 
 ---
 ### **RISC-V 5-Stage CPU Core**  
@@ -63,16 +51,17 @@ Automated verification of UART CAT commands for SDR hardware bring-up.
 
 ---
 
-### **FPGA NiosV Hearing Aid & Loss Simulator**  
-*(Repo: [FPGA NiosV hearing Simulator](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator.git)*
 
-> Real-time audio processing with volume, noise, and speech simulation + VGA UI. Designed for DE1-SoC with Verilog.
+### **LoRa Telemetry Module**  
+*(Repo: [BlueSky-LoRa-Radio](https://github.com/hyeonjijung1/BlueSky-LoRa-Radio.git))*
 
-| VGA UI Output | DE1-SoC Hardware | Block Diagram | Coming Soon |
-|---------------|------------------|---------------|-------------|
+> STM32WL-based LoRa transceiver for real-time solar car telemetry. Bidirectional data link between car and chase vehicle with Raspberry Pi gateway.
+
+| Block Diagram | 3D PCB Render | Assembled Board | Field Test Setup |
+|---------------|---------------|-----------------|------------------|
 | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
 
-**Tech Stack:** `Verilog` · `Audio DSP` · `VGA` · `DE1-SoC FPGA`
+**Tech Stack:** `STM32WL` · `LoRa` · `Raspberry Pi` · `PCB design & RF testing`
 
 ---
 
