@@ -29,7 +29,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 ## 📂 Featured Projects
 
 ### RISC-V 5-Stage Pipelined CPU Core  
-[![Repo](https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github)](https://github.com/hyeonjijung1/riscv-pipeline-cpu)
+[![Repo](https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-red?style=flat&logo=github)](https://github.com/hyeonjijung1/riscv-pipeline-cpu)
 
 > **Fully synthesizable Verilog CPU** implementing the RV32I ISA with **hazard detection**, **data forwarding**, and **branch handling**.  
 > Verified with **ModelSim/GTKWave** and custom instruction & memory testbenches.
@@ -45,7 +45,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 ---
 
 ### **SDR Controller Hardware**  
-[![GitHub Repo](https://img.shields.io/badge/Repo-controller--hardware--sdr-181717?logo=github)](https://github.com/hyeonjijung1/controller-hardware-sdr)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-controller--hardware--sdr-green?logo=github)](https://github.com/hyeonjijung1/controller-hardware-sdr)  
 
 > **ATmega324PB** + **Si5351A** for frequency generation, UART CAT protocol, and Python-based hardware validation.  
 > Designed for SDR TX/RX switching, LO control, and integration with mixer & amplifier subsystems.  
@@ -89,7 +89,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 ---
 
 ### **FPGA Piano Audio System**  
-[![GitHub Repo](https://img.shields.io/badge/Repo-fpga--piano--audio--system-181717?logo=github)](https://github.com/hyeonjijung1/fpga-piano-audio-system)  
+[![GitHub Repo](https://img.shields.io/badge/Repo-fpga--piano--audio--system-yellow?logo=github)](https://github.com/hyeonjijung1/fpga-piano-audio-system)  
 
 **VGA-rendered piano** + **PS/2 keyboard input** + **real-time PWM audio** — all in synthesizable **Verilog**.  
 Automated from **Quartus compile → ModelSim simulation** with Tcl & Bash.  
