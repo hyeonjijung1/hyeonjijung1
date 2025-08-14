@@ -1,5 +1,11 @@
 # <h1 align="center">Hi there, I'm Diana 👋</h1>
 
+[![Repo](https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github)](https://github.com/hyeonjijung1/riscv-pipeline-cpu)
+[![Repo](https://img.shields.io/badge/GitHub-de1--soc--audio--viz-black?style=flat&logo=github)](https://github.com/hyeonjijung1/de1-soc-audio-visualizer)
+[![Repo](https://img.shields.io/badge/GitHub-blue--sky--lora--radio-black?style=flat&logo=github)](https://github.com/hyeonjijung1/blue-sky-lora-radio)
+[![Repo](https://img.shields.io/badge/GitHub-sdr--controller--hardware-black?style=flat&logo=github)](https://github.com/hyeonjijung1/sdr-controller-hardware)
+[![Repo](https://img.shields.io/badge/GitHub-linear--voltage--regulator-black?style=flat&logo=github)](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb)
+
 I design and build hardware from schematic capture to fully validated systems, bridging **analog, digital, and embedded domains**.  
 My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.  
 
