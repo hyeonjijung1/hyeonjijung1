@@ -3,15 +3,15 @@
 <p align="center">
   <!-- CPU -->
   <a href="https://github.com/hyeonjijung1/riscv-pipeline-cpu">
-    <img src="https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github" alt="RISC-V Pipeline CPU Repo">
+    <img src="https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-red?style=flat&logo=github" alt="RISC-V Pipeline CPU Repo">
   </a>
   <!-- SDR -->
   <a href="https://github.com/hyeonjijung1/controller-hardware-sdr">
-    <img src="https://img.shields.io/badge/GitHub-controller--hardware--sdr-black?style=flat&logo=github" alt="SDR Controller Hardware Repo">
+    <img src="https://img.shields.io/badge/GitHub-controller--hardware--sdr-green?style=flat&logo=github" alt="SDR Controller Hardware Repo">
   </a>
   <!-- FPGA Piano -->
   <a href="https://github.com/hyeonjijung1/fpga-piano-audio-system">
-    <img src="https://img.shields.io/badge/GitHub-fpga--piano--audio--system-black?style=flat&logo=github" alt="FPGA Piano Audio System Repo">
+    <img src="https://img.shields.io/badge/GitHub-fpga--piano--audio--system-yellow?style=flat&logo=github" alt="FPGA Piano Audio System Repo">
   </a>
   <!-- LoRa -->
   <a href="https://github.com/hyeonjijung1/BlueSky-LoRa-Radio">
