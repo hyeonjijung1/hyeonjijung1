@@ -18,6 +18,7 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 | **Block Diagram** | **Instruction Decode (ID)** | **Forwarding (EX)** | **Load/Store (MEM)** |
 |---|---|---|---|
 | ![Block Diagram](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/bd.png) |![ID Stage](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/id_stage.png) | ![EX Waveform](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/ex_stage.png) | ![MEM Waveform](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/mem_stage.png) |
+
 <sub>**Figure:** Pipeline architecture (left) and waveform verification of execution and memory stages (middle, right).</sub>
 
 **Tech Stack:** `Verilog` · `Tcl Scripting` · `RISC-V Assembly` · `Pipeline Design` · `Hazard Detection` · `Data Forwarding` · `ModelSim` · `GTKWave` · `Quartus Prime`
