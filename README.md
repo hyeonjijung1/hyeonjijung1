@@ -172,8 +172,11 @@ Automated from **Quartus compile → ModelSim simulation** with Tcl & Bash.
 ---
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyeonji%20Jung-blue?logo=linkedin)](https://www.linkedin.com/in/hyeonjijung)  
-[![Email](https://img.shields.io/badge/Email-hyeonjijung1%40gmail.com-red?logo=gmail)](mailto:hyeonjijung1@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyeonji%20Jung-blue?logo=linkedin)](https://www.linkedin.com/in/dianajung-uoft/)  
+[![Email](https://img.shields.io/badge/Email-dianajunguoftece%40gmail.com-red?logo=gmail)](mailto:dianajunguoftece@gmail.com)
+
+
 
 ---
 
