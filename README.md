@@ -9,6 +9,19 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 
 ## 📂 Featured Projects
 
+### RISC-V 5-Stage Pipelined CPU Core  
+[![Repo](https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github)](https://github.com/hyeonjijung1/riscv-pipeline-cpu)
+
+> **Fully synthesizable Verilog CPU** implementing the RV32I ISA with **hazard detection**, **data forwarding**, and **branch handling**.  
+> Verified with **ModelSim/GTKWave** and custom instruction & memory testbenches.
+
+| **Block Diagram** | **Instruction Decode (ID)** | **Forwarding (EX)** | **Load/Store (MEM)** |
+|---|---|---|---|
+| ![Block Diagram](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/bd.png) |![ID Stage](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/id_stage.png) | ![EX Waveform](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/ex_stage.png) | ![MEM Waveform](https://github.com/hyeonjijung1/riscv-pipeline-cpu/blob/main/docs/mem_stage.png) |
+
+**Tech Stack:** `Verilog` · `Tcl Scripting` · `RISC-V Assembly` · `Pipeline Design` · `Hazard Detection` · `Data Forwarding` · `ModelSim` · `GTKWave` · `Quartus Prime`
+
+---
 
 ### **SDR Controller Hardware**  
 [![GitHub Repo](https://img.shields.io/badge/Repo-controller--hardware--sdr-181717?logo=github)](https://github.com/hyeonjijung1/controller-hardware-sdr)  
@@ -36,18 +49,6 @@ Aside from engineering, I train **550+ Frosh Week leaders** to create an inclusi
 | ![UI Screenshot](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/UI-background.jpg) | ![DE1-SoC Board](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/aid-screen.png) | ![Final Block Diagram](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/final-bd.png) | ![Loss Waveforms](https://github.com/hyeonjijung1/fpga-niosv-hearing-simulator/blob/main/images/oscilloscope_latency_demo.png) |
 
 **Performance:** 8 ms latency · 100 MHz (< 1 ns slack) · 12% LUT / 5% BRAM
-
----
-### **RISC-V 5-Stage CPU Core**  
-*(Repo: [riscv-pipeline-cpu](https://github.com/hyeonjijung1/riscv-pipeline-cpu))*
-
-> Pipeline with hazard detection, forwarding, and branch handling. Verified in ModelSim with instruction/memory testbenches.
-
-| Block Diagram | Waveform Simulation | FPGA Test Setup | Coming Soon |
-|---------------|---------------------|-----------------|-------------|
-| ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) | ![Coming Soon](https://via.placeholder.com/300x200?text=Coming+Soon) |
-
-**Tech Stack:** `Verilog` · `RISC-V Assembly` · `ModelSim` · `Quartus Prime`
 
 ---
 
