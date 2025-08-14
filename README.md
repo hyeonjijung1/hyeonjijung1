@@ -1,10 +1,23 @@
 # <h1 align="center">Hi there, I'm Diana 👋</h1>
 
-[![Repo](https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github)](https://github.com/hyeonjijung1/riscv-pipeline-cpu)
-[![Repo](https://img.shields.io/badge/GitHub-de1--soc--audio--viz-black?style=flat&logo=github)](https://github.com/hyeonjijung1/de1-soc-audio-visualizer)
-[![Repo](https://img.shields.io/badge/GitHub-blue--sky--lora--radio-black?style=flat&logo=github)](https://github.com/hyeonjijung1/blue-sky-lora-radio)
-[![Repo](https://img.shields.io/badge/GitHub-sdr--controller--hardware-black?style=flat&logo=github)](https://github.com/hyeonjijung1/sdr-controller-hardware)
-[![Repo](https://img.shields.io/badge/GitHub-linear--voltage--regulator-black?style=flat&logo=github)](https://github.com/hyeonjijung1/linear-voltage-regulator-pcb)
+<p align="center">
+  <!-- CPU -->
+  <a href="https://github.com/hyeonjijung1/riscv-pipeline-cpu">
+    <img src="https://img.shields.io/badge/GitHub-riscv--pipeline--cpu-black?style=flat&logo=github" alt="RISC-V Pipeline CPU Repo">
+  </a>
+  <!-- SDR -->
+  <a href="https://github.com/hyeonjijung1/controller-hardware-sdr">
+    <img src="https://img.shields.io/badge/GitHub-controller--hardware--sdr-black?style=flat&logo=github" alt="SDR Controller Hardware Repo">
+  </a>
+  <!-- FPGA Piano -->
+  <a href="https://github.com/hyeonjijung1/fpga-piano-audio-system">
+    <img src="https://img.shields.io/badge/GitHub-fpga--piano--audio--system-black?style=flat&logo=github" alt="FPGA Piano Audio System Repo">
+  </a>
+  <!-- LoRa -->
+  <a href="https://github.com/hyeonjijung1/BlueSky-LoRa-Radio">
+    <img src="https://img.shields.io/badge/GitHub-BlueSky--LoRa--Radio-black?style=flat&logo=github" alt="BlueSky LoRa Radio Repo">
+  </a>
+</p>
 
 I design and build hardware from schematic capture to fully validated systems, bridging **analog, digital, and embedded domains**.  
 My work includes **RF telemetry modules**, **RISC-V CPU cores**, **FPGA-based audio systems**, and **custom PCBs** tested and verified in the lab.  
