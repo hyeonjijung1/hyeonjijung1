@@ -74,8 +74,7 @@ Automated from **Quartus compile → ModelSim simulation** with Tcl & Bash.
 
 | VGA UI | Block Diagram | Demo Video | Waveform |
 |---|---|---|---|
-| ![VGA UI](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/demo_photo.png) | ![Block Diagram](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/block_diagram_piano.png) | [![Demo Video](https://img.shields.io/badge/Watch%20Demo%20Video-Click%20Here-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1-k1kQWv2bcY4y-GO6ZJZvzP8-Z2Uc33Q/view?resourcekey)
- | ![Waveform Simulation](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/waveform_epwave.png) |
+| ![VGA UI](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/demo_photo.png) | ![Block Diagram](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/block_diagram_piano.png) | [![Watch the demo](https://img.shields.io/badge/🎥%20Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1-k1kQWv2bcY4y-GO6ZJZvzP8-Z2Uc33Q/view?resourcekey) | ![Waveform Simulation](https://github.com/hyeonjijung1/fpga-piano-audio-system/blob/main/docs/waveform_epwave.png) |
 
 *Figure: VGA-rendered piano system with PS/2 keyboard input, real-time audio output, and simulation waveform validation.*
 
